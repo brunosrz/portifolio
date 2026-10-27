@@ -2,7 +2,7 @@
 
 **Engenheiro de Software | IA aplicada | Arquitetura de produtos e runtimes confiáveis**
 
-Bragança Paulista, SP · Brasil  
+São João Batista do Glória, MG · Brasil  
 +55 (35) 91017-9164 · [bruno.soarxz@gmail.com](mailto:bruno.soarxz@gmail.com) · [github.com/brunosrz](https://github.com/brunosrz)
 
 ## Perfil
@@ -18,6 +18,8 @@ Busco atuar em times que estejam criando produtos de IA, plataformas internas, a
 - Arquitetura e implementação de agentes com ferramentas, function calling, aprovação humana, subagentes, memória e recuperação de contexto.
 - Backend Python com FastAPI, Pydantic, APIs REST, SSE, WebSocket, autenticação, RBAC e contratos versionados.
 - Frontend TypeScript com React, Vite, TanStack, Zustand, Tailwind, Monaco, xterm e Electron.
+- Backend TypeScript com Hono e Cloudflare Workers, incluindo Durable Objects, D1, R2, KV, Queues e Cron Triggers; os serviços distribuídos do Vectora são um caso prático dessa arquitetura.
+- Rust em formação aplicada: estudo a linguagem para migrar progressivamente partes do backend do Vectora e avalio o backend do Delivery como um caso real, isolado e mensurável de Rust em produção.
 - Persistência local e distribuída com SQLite/WAL, PostgreSQL, D1, Redis, LanceDB e Qdrant.
 - Integração de LLMs remotos e locais, com roteamento de providers, fallbacks, diagnósticos e limites explícitos.
 - Segurança de ferramentas: SSRF, políticas de egress, isolamento por workspace, redaction, credenciais e auditoria.
