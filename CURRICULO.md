@@ -8,11 +8,11 @@ São João Batista do Glória, MG · Brasil
 
 ## Objetivo
 
-Busco uma oportunidade em rotinas administrativas, suporte operacional, organização de dados, atendimento interno, tecnologia ou apoio a equipes. Tenho interesse especial em atividades que envolvam computador, criação de apresentações, planilhas, Excel, Power BI, automação de processos, organização de informações e melhoria de rotinas.
+Busco uma oportunidade em rotinas administrativas, suporte operacional, atendimento ao cliente, comércio, alimentação, produção ou apoio tecnológico. Tenho interesse especial em atividades que envolvam computador, criação de apresentações, planilhas, Excel, Power BI, automação de processos, organização de informações e melhoria de rotinas.
 
 ## Perfil
 
-Sou programador e Web Designer autodidata, com extrema facilidade para aprender tecnologias, sistemas e ferramentas digitais. Sou responsável, organizado, comunicativo e acostumado a trabalhar em ambientes dinâmicos. Tenho iniciativa para assumir tarefas, apoiar a equipe, estruturar informações e transformar processos manuais em rotinas mais claras e eficientes.
+Sou programador e Web Designer autodidata, com extrema facilidade para aprender tecnologias, sistemas e ferramentas digitais. Também tenho experiência prática com atendimento ao público, caixa, reposição, estoque, cozinha e produção de alimentos. Sou responsável, organizado, comunicativo e acostumado a trabalhar em ambientes dinâmicos, com iniciativa para apoiar a equipe, manter o setor funcionando e transformar processos manuais em rotinas mais claras e eficientes.
 
 ## Experiência profissional
 
