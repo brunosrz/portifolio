@@ -1,6 +1,6 @@
 # Bruno Soares
 
-**Atendimento | Operações | Organização e suporte administrativo**
+**Assistente administrativo | Suporte tecnológico | Programação e Web Design**
 
 São João Batista do Glória, MG · Brasil  
 21 anos · 12/12/2004<br>
@@ -8,11 +8,11 @@ São João Batista do Glória, MG · Brasil
 
 ## Objetivo
 
-Busco uma oportunidade em atendimento, comércio, alimentação, estoque, operação de loja ou suporte administrativo. Tenho experiência prática com público, caixa, organização, reposição, cozinha, limpeza e rotina de estabelecimento, além de facilidade para aprender sistemas e processos novos.
+Busco uma oportunidade em rotinas administrativas, suporte operacional, organização de dados, atendimento interno, tecnologia ou apoio a equipes. Tenho interesse especial em atividades que envolvam computador, criação de apresentações, planilhas, Excel, Power BI, automação de processos, organização de informações e melhoria de rotinas.
 
 ## Perfil
 
-Sou responsável, organizado, comunicativo e acostumado a trabalhar em ambientes dinâmicos. Tenho iniciativa para assumir tarefas, apoiar a equipe e manter o funcionamento do setor mesmo em períodos de maior movimento. Também possuo conhecimentos de programação, gestão e informática, que ajudam na organização de informações, solução de problemas e adaptação a sistemas internos.
+Sou programador e Web Designer autodidata, com extrema facilidade para aprender tecnologias, sistemas e ferramentas digitais. Sou responsável, organizado, comunicativo e acostumado a trabalhar em ambientes dinâmicos. Tenho iniciativa para assumir tarefas, apoiar a equipe, estruturar informações e transformar processos manuais em rotinas mais claras e eficientes.
 
 ## Experiência profissional
 
@@ -69,8 +69,11 @@ Sou responsável, organizado, comunicativo e acostumado a trabalhar em ambientes
 - Organização, limpeza e cumprimento de rotinas.
 - Preparação de alimentos, bebidas, pizzas e produtos de padaria.
 - Informática, assistência técnica e facilidade com sistemas.
-- Programação, Web Design e criação de soluções simples para organização e comunicação.
-- Gestão de tarefas, priorização, responsabilidade operacional e resolução de problemas.
+- Excel, planilhas, organização de dados e criação de apresentações.
+- Interesse e facilidade para trabalhar com Power BI, relatórios e indicadores.
+- Programação, Web Design, automação de processos e criação de soluções digitais.
+- Gestão de tarefas, priorização, documentação e melhoria contínua de processos.
+- Facilidade extrema para aprender novos softwares, plataformas e ferramentas de trabalho.
 
 ## Formação
 
