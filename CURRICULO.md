@@ -16,10 +16,14 @@ Sou programador e Web Designer autodidata, com extrema facilidade para aprender 
 
 ## Experiência profissional
 
-### Padaria do Cresinho — Balconista
+### Padaria e Mercearia do Cresinho — Balconista e apoio administrativo
 **Dezembro de 2025 – Novembro de 2026**
 
 - Atendimento ao cliente e operação de caixa.
+- Apoio na organização e conferência do caixa, recebimentos e formas de pagamento.
+- Criação e manutenção de planilha para controle de clientes do crediário, registrando data, nome, valor pago, saldo restante e forma de pagamento.
+- Controle de recebimentos de fornecedores, com conferência dos valores e registros dos pagamentos.
+- Conferência, organização e reposição dos produtos da mercearia.
 - Reposição, organização e embalagem de produtos.
 - Assamento de pães e apoio à produção.
 - Fatiamento e armazenamento de frios.
