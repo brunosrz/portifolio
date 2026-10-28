@@ -1,86 +1,115 @@
 # Bruno Soares
 
-**Engenheiro de Software | IA aplicada | Arquitetura de produtos e runtimes confiáveis**
+**Engenheiro de Software autodidata · IA aplicada · Produtos full stack**
 
 São João Batista do Glória, MG · Brasil  
 +55 (35) 91017-9164 · [bruno.soarxz@gmail.com](mailto:bruno.soarxz@gmail.com) · [github.com/brunosrz](https://github.com/brunosrz)
 
-## Perfil
+## Resumo profissional
 
-Sou um engenheiro de software ambicioso, autodidata e orientado a produto. Construo sistemas completos — da experiência do usuário ao runtime, persistência, segurança, testes e operação — com foco especial em IA aplicada de forma útil, controlável e verificável.
+Desenvolvedor autodidata e orientado a produto, com experiência prática construindo sistemas completos: interface, backend, agentes de IA, persistência, segurança, testes e operação. Meu principal trabalho é o Vectora, uma plataforma de engenharia de software com agentes e workbenches que desenvolvo continuamente como produto próprio.
 
-Meu principal projeto é o **Vectora**, uma plataforma de engenharia de software com agentes e workbenches. Ele nasceu como um produto local-first e evoluiu para uma arquitetura que combina execução de agentes, ferramentas, memória, contexto, browser, Git, persistência auditável e serviços distribuídos. O projeto é desenvolvido continuamente; por isso, apresento cada capacidade com seu estado real de maturidade, sem confundir protótipo, beta e produção.
+Tenho facilidade para aprender tecnologias novas e conectar áreas que normalmente ficam separadas: UX, engenharia de software, modelos de linguagem, automação e confiabilidade. Busco atuar como Software Engineer, AI Engineer, Full Stack Engineer, Backend Engineer ou Developer Tools Engineer em produtos de IA, plataformas internas e automações B2B.
 
-Busco atuar em times que estejam criando produtos de IA, plataformas internas, automações B2B ou soluções que precisem unir software tradicional, modelos de linguagem e engenharia de confiabilidade.
+## Experiência profissional
 
-## O que entrego
+### Vectora — Fundador e Engenheiro de Software
+**2026 – atual · Projeto próprio em desenvolvimento contínuo**
 
-- Arquitetura e implementação de agentes com ferramentas, function calling, aprovação humana, subagentes, memória e recuperação de contexto.
-- Backend Python com FastAPI, Pydantic, APIs REST, SSE, WebSocket, autenticação, RBAC e contratos versionados.
-- Frontend TypeScript com React, Vite, TanStack, Zustand, Tailwind, Monaco, xterm e Electron.
-- Backend TypeScript com Hono e Cloudflare Workers, incluindo Durable Objects, D1, R2, KV, Queues e Cron Triggers; os serviços distribuídos do Vectora são um caso prático dessa arquitetura.
-- Rust em formação aplicada: estudo a linguagem para migrar progressivamente partes do backend do Vectora e avalio o backend do Delivery como um caso real, isolado e mensurável de Rust em produção.
-- Persistência local e distribuída com SQLite/WAL, PostgreSQL, D1, Redis, LanceDB e Qdrant.
-- Integração de LLMs remotos e locais, com roteamento de providers, fallbacks, diagnósticos e limites explícitos.
-- Segurança de ferramentas: SSRF, políticas de egress, isolamento por workspace, redaction, credenciais e auditoria.
-- Qualidade operacional: testes unitários, negativos, regressivos, integração e E2E; lint, tipagem, contratos, CI/CD e evidências reproduzíveis.
-- Produtos B2B: descoberta de requisitos, arquitetura de catálogo, regras de negócio, UX e evolução incremental.
+- Concepção e desenvolvimento de uma plataforma local-first para desenvolvimento de software assistido por agentes.
+- Implementação do runtime nativo de agentes, loop de conversação, function calling, aprovação humana, subagentes, retomada e execução de ferramentas.
+- Construção de workbenches para editor, terminal, Git, tarefas, memória, busca web e navegador Chromium integrado ao Electron.
+- Definição de contratos entre backend Python e frontend TypeScript, além de persistência auditável com AgentRun, ledger, checkpoints, snapshots, replay e quality gates.
+- Implementação de políticas de egress, proteção SSRF, isolamento por workspace, redaction de credenciais e tratamento de conteúdo não confiável.
+- Organização de CI/CD, testes unitários, negativos, regressivos, integração e E2E, com validações de lint, tipagem, segurança e drift de contratos.
+- Desenvolvimento do pacote `services` com Hono e Cloudflare Workers para gateway, autenticação, releases, licenças, registry, telemetria e jobs assíncronos.
+
+**Estado:** núcleo funcional demonstrável, com capacidades em diferentes níveis de maturidade claramente documentados. O projeto continua em evolução e não apresenta protótipos como produção.
+
+## Competências principais
+
+### IA aplicada e agentes
+
+- Arquitetura de agentes com ferramentas, function calling, aprovação humana e subagentes.
+- Memória, recuperação de contexto, RAG, reranking e grafo estrutural de código.
+- Integração de modelos remotos e locais, roteamento de providers, fallbacks e diagnósticos.
+- Avaliação, replay, evidências estruturadas e quality gates.
+- Experiência com LangChain e LangGraph, incluindo trade-offs de orquestração, memória e ferramentas.
+
+### Backend e sistemas distribuídos
+
+- Python, FastAPI, Pydantic, APIs REST, SSE, WebSocket, autenticação, RBAC e contratos versionados.
+- TypeScript com Hono e Cloudflare Workers, Durable Objects, D1, R2, KV, Queues e Cron Triggers.
+- SQLite/WAL, PostgreSQL, Redis, LanceDB e Qdrant.
+- MCP, Docker, GitHub Actions, observabilidade e automação de processos.
+- Rust em formação aplicada, com estudo de migração progressiva de componentes do Vectora e avaliação do backend do Delivery como caso real isolado.
+
+### Frontend, desktop e experiência de produto
+
+- TypeScript, React, Vite, TanStack, Zustand e Tailwind.
+- Electron, Chromium/CDP, Monaco e xterm.
+- Design de produto e prototipação no Figma, com tradução de interfaces para produtos web e desktop.
+- Modelagem de fluxos, regras de negócio e experiências B2B.
+
+### Qualidade, segurança e operação
+
+- Testes unitários, negativos, regressivos, integração e E2E.
+- Ruff, tipagem Python, TypeScript, Prettier, Bandit, pre-commit e CI/CD.
+- SSRF, políticas de egress, isolamento de workspace, redaction e auditoria.
+- Contratos canônicos, migrações, recuperação após falhas e evidências reproduzíveis.
 
 ## Projetos selecionados
 
-### Vectora — fundador e principal engenheiro
+### Vectora — plataforma de engenharia de software com IA
 
-**Estado:** produto proprietário em desenvolvimento contínuo; núcleo funcional demonstrável, com capacidades individuais em diferentes níveis de maturidade.
+[Repositório](https://github.com/vectora-ltda/vectora)
 
-O Vectora é um workspace de IA para desenvolvimento de software no qual pessoa e agente trabalham sobre o mesmo projeto, filesystem, terminal, Git, navegador, memória e contexto.
+O Vectora permite que pessoa e agente trabalhem sobre o mesmo projeto, filesystem, terminal, Git, navegador, memória e contexto. O objetivo é reduzir o trabalho operacional de desenvolvimento sem abrir mão de permissões, rastreabilidade e controle humano.
 
-**Contribuições principais**
+**Principais entregas:** runtime de agentes, workbenches, contexto híbrido, contratos Python/TypeScript, AgentRun persistente, ledger derivado de eventos, checkpoints, snapshots, replay, quality gates e serviços Cloudflare.
 
-- Motor nativo de agentes com loop de execução, ferramentas, aprovação humana, subagentes e retomada.
-- Contexto híbrido com busca textual, vetores, reranking e grafo baseado em estrutura de código.
-- Workbenches para editor, terminal, Git, tarefas, memória, busca web e Browser Workbench sobre Chromium distribuído pelo Electron.
-- Contratos canônicos entre backend Python e frontend TypeScript.
-- AgentRun persistente, ledger derivado de eventos, checkpoints, snapshots, quality gates, replay e evidências estruturadas.
-- Isolamento por workspace, proteção SSRF/egress e tratamento de conteúdo não confiável.
-- Modo local-first com SQLite e LanceDB, além de caminhos de escala com PostgreSQL, Qdrant e Redis.
-- Pacote `services` executado na Cloudflare: Workers/Hono, Durable Objects, R2, KV, D1, Queues e Cron Triggers para gateway, releases, autenticação, licenças, registry, telemetria e jobs assíncronos.
+**Tecnologias:** Python, FastAPI, Pydantic, TypeScript, React, Vite, Electron, Chromium/CDP, SQLite, PostgreSQL, Redis, LanceDB, Qdrant, BM25, tree-sitter, MCP, Hono, Cloudflare Workers, Docker, GitHub Actions, Nuitka e electron-builder.
 
-**Tecnologias:** Python, FastAPI, Pydantic, TypeScript, React, Vite, Electron, Chromium/CDP, SQLite, PostgreSQL, Redis, LanceDB, Qdrant, BM25, tree-sitter, MCP, Hono, Cloudflare Workers, Durable Objects, R2, KV, D1, Queues, Docker, GitHub Actions, Nuitka e electron-builder.
+**Estado:** desenvolvimento ativo; cada capacidade é apresentada com seu nível real de maturidade e evidências correspondentes.
 
-### Ability System — autor
+### Ability System — framework de habilidades para Godot
 
-**Estado:** projeto open source em preparação para distribuição pública na Godot Asset Library; branch de compatibilidade e CI em evolução.
+[Repositório](https://github.com/brunosrz/AbilitySystem)
 
-Framework em C++/GDExtension para Godot 4.x, orientado a dados, com hierarquia de tags, fases de habilidade, composição por Resources e suporte a cenários multiplayer com predição e rollback.
+Framework open source em C++/GDExtension para Godot 4.x, orientado a dados, com hierarquia de tags, fases de habilidade, composição por Resources e suporte a cenários multiplayer com predição e rollback.
 
-O projeto demonstra experiência com APIs nativas de engine, compatibilidade de versões, empacotamento de plugins, builds multiplataforma e qualidade de software em C++.
+**Demonstra:** desenvolvimento de APIs nativas, integração com engine, compatibilidade de versões, empacotamento de plugins, builds multiplataforma e qualidade de software em C++.
 
-**Tecnologias:** C++, Godot 4.x, GDExtension, SCons, GitHub Actions e networking determinístico.
+**Estado:** preparação para distribuição pública na Godot Asset Library, com CI e compatibilidade em evolução.
 
-### Plataforma de delivery — produto B2B em desenvolvimento
+### Delivery — produto B2B para restaurantes
 
-**Estado:** produto em desenvolvimento e mantido em repositório próprio; este repositório contém somente a narrativa, o plano e as evidências públicas autorizadas.
+[Repositório](https://github.com/brunosrz/Delivery)
 
-Produto de cardápio e pedidos para restaurantes, lanchonetes e operações de delivery. O fluxo cobre categorias, busca, itens, variações, complementos, observações, precificação, sacola e preparação para checkout e gestão de pedidos.
+Produto de cardápio e pedidos para restaurantes, lanchonetes e operações de delivery. O fluxo inclui categorias, busca, itens, variações, complementos, observações, precificação, sacola, checkout e gestão de pedidos.
 
-O case começou com protótipos próprios no Figma e será convertido em uma aplicação demonstrável, priorizando uso mobile, clareza comercial e uma arquitetura reutilizável para clientes B2B.
+O projeto começou com protótipos próprios no Figma e está sendo convertido em uma aplicação demonstrável, com foco mobile, clareza comercial e arquitetura reutilizável para clientes B2B.
 
 **Demonstra:** design de produto, UX mobile, catálogo, regras de preço, carrinho, checkout, acessibilidade, responsividade e integração entre operação comercial e software.
 
-## Conhecimentos anteriores relevantes
-
-- LangChain e LangGraph: experiência prática e conhecimento de trade-offs para orquestração, memória e ferramentas.
-- Engenharia full stack, modelagem de dados, integração de APIs e automação de processos.
-- Design e prototipação de interfaces no Figma, com tradução para produtos web e desktop.
+**Estado:** desenvolvimento ativo; o backend Rust é avaliado como caso isolado e mensurável de uso da linguagem.
 
 ## Como posso contribuir
 
-- Construir uma plataforma interna de IA alinhada aos dados, processos e permissões da empresa.
+- Construir plataformas internas de IA alinhadas aos dados, processos e permissões da empresa.
 - Desenvolver copilotos e agentes para engenharia, atendimento, suporte, análise documental e operações B2B.
-- Projetar o caminho completo de um produto de IA: descoberta, protótipo, runtime, segurança, avaliação, observabilidade e deploy.
+- Projetar o ciclo completo de um produto: descoberta, protótipo, runtime, segurança, avaliação, observabilidade e deploy.
 - Integrar modelos existentes sem aprisionamento a um provider, incluindo execução local quando privacidade ou custo exigirem.
-- Atuar em um time de produto como ponte entre engenharia tradicional, UX e IA aplicada.
+- Automatizar processos administrativos e operacionais com software, dados, relatórios e integrações.
+- Atuar como ponte entre engenharia tradicional, UX, produto e IA aplicada.
+
+## Formação e conhecimentos adicionais
+
+- Ensino Médio completo.
+- Programação e Web Design autodidatas, com prática contínua desde a adolescência.
+- Figma, design de interfaces, modelagem de dados, integração de APIs e automação.
+- Conhecimento prático de LangChain e LangGraph.
 
 ## Evidências e transparência
 
-O portfólio não apresenta uma capacidade como pronta apenas porque existe código. Cada case deve apontar para repositório, demo, captura, teste ou documento correspondente e informar suas limitações. O estado atualizado e o plano de evolução estão em [`PLANO-PORTFOLIO.md`](PLANO-PORTFOLIO.md).
+O portfólio distingue código publicado, demonstração funcional, beta, protótipo e desenvolvimento ativo. Nenhuma capacidade é apresentada como produção apenas porque existe no código. Repositórios, estado de maturidade e próximos passos são mantidos no [plano do portfólio](PLANO-PORTFOLIO.md).
