@@ -7,9 +7,20 @@ São João Batista do Glória, MG · Brasil
 
 ## Resumo profissional
 
-Desenvolvedor autodidata e orientado a produto, com experiência prática construindo sistemas completos: interface, backend, agentes de IA, persistência, segurança, testes e operação. Meu principal trabalho é o Vectora, uma plataforma de engenharia de software com agentes e workbenches que desenvolvo continuamente como produto próprio.
+Desenvolvedor autodidata e orientado a produto, com experiência prática construindo sistemas completos: interface, backend, agentes de IA, persistência, segurança, testes e operação. Desde 2020 estudo e desenvolvo sites, sistemas, aplicações, Web Design, DevOps e jogos, mantendo esse percurso em paralelo às experiências profissionais em atendimento, alimentação e varejo. Meu principal trabalho é o Vectora, uma plataforma de engenharia de software com agentes e workbenches que desenvolvo continuamente como produto próprio.
 
 Tenho facilidade para aprender tecnologias novas e conectar áreas que normalmente ficam separadas: UX, engenharia de software, modelos de linguagem, automação e confiabilidade. Busco atuar como Software Engineer, AI Engineer, Full Stack Engineer, Backend Engineer ou Developer Tools Engineer em produtos de IA, plataformas internas e automações B2B.
+
+## Experiência profissional em desenvolvimento
+
+### Fundador e Desenvolvedor Principal — Vectora
+
+**Produto próprio em desenvolvimento · período real de início – atual**  
+São João Batista do Glória, MG · [repositório público](https://github.com/vectora-ltda/vectora)
+
+Conduzo a concepção, arquitetura e implementação do Vectora, sem apresentá-lo como empresa formal já constituída. O trabalho envolve decisões de produto, contratos entre frontend e backend, runtime de agentes, workbenches, segurança, persistência, avaliação e operação local. O futuro registro empresarial é uma possibilidade; a experiência descrita aqui é o trabalho efetivamente realizado no produto.
+
+Organizo o desenvolvimento com issues como unidade de descoberta e planejamento e pull requests como unidade de entrega. Trabalho com dependências entre branches e stacks de PRs, critérios de aceite, testes negativos e regressivos, resolução de conflitos, validação de CI e evidências por commit. Uso o CodeRabbitAI como contraparte automatizada de análise e estou desenvolvendo um bot próprio para ampliar esse processo no GitHub. Isso oferece prática concreta de revisão, rastreabilidade e coordenação de várias linhas de trabalho, sem alegar uma equipe que ainda não existe.
 
 ## Competências principais
 
@@ -79,6 +90,10 @@ O projeto começou com protótipos próprios no Figma e está sendo convertido e
 
 **Estado:** desenvolvimento ativo; o backend Rust é avaliado como caso isolado e mensurável de uso da linguagem.
 
+### Experiência profissional complementar
+
+Desde 2020, mantenho estudos e projetos próprios de tecnologia enquanto trabalho em funções de atendimento, alimentação e varejo. Essa combinação desenvolveu disciplina operacional, comunicação com clientes, compreensão de processos reais e capacidade de transformar uma necessidade prática em fluxo de produto. A experiência de negócio influencia diretamente a forma como projeto sistemas: observo o trabalho de quem usa a ferramenta, reduzo atrito e valido se a solução realmente ajuda a operação.
+
 ## Como posso contribuir
 
 - Construir plataformas internas de IA alinhadas aos dados, processos e permissões da empresa.
@@ -91,7 +106,7 @@ O projeto começou com protótipos próprios no Figma e está sendo convertido e
 ## Formação e conhecimentos adicionais
 
 - Ensino Médio completo.
-- Programação e Web Design autodidatas, com prática contínua desde a adolescência.
+- Programação, Web Design, DevOps, desenvolvimento de jogos e sistemas autodidatas, com estudo contínuo desde 2020 e prática anterior desde a adolescência.
 - Figma, design de interfaces, modelagem de dados, integração de APIs e automação.
 - Conhecimento prático de LangChain e LangGraph.
 
