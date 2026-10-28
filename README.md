@@ -4,7 +4,8 @@ Este repositório é a fonte de verdade do meu currículo, da narrativa profissi
 
 ## Arquivos
 
-- [`CURRICULO.md`](CURRICULO.md): versão principal do currículo, orientada a vagas de engenharia de software e IA aplicada.
+- [`CURRICULO.md`](CURRICULO.md): currículo geral, orientado a oportunidades locais de atendimento, operações, comércio e suporte.
+- [`CURRICULO-DEV.md`](CURRICULO-DEV.md): currículo técnico, orientado a engenharia de software, IA aplicada e arquitetura de produtos.
 - [`PLANO-PORTFOLIO.md`](PLANO-PORTFOLIO.md): plano executável para transformar a narrativa em uma vitrine funcional, verificável e atualizável.
 - [`DECISOES.md`](DECISOES.md): decisões de escopo, proveniência, limites de divulgação e registro de mudanças.
 

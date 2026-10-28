@@ -33,7 +33,7 @@ O portfólio deve provar capacidade técnica e de produto sem esconder o que ain
 
 | Área | Estado | Evidência atual | Lacuna |
 | --- | --- | --- | --- |
-| Currículo textual | iniciado | `CURRICULO.md` | revisão editorial e versão em inglês |
+| Currículo textual | iniciado | `CURRICULO.md`, `CURRICULO-DEV.md` | revisão editorial, versão em inglês e alinhamento entre os dois públicos |
 | Repositório do portfólio | iniciado | este repositório | site navegável e deploy |
 | Vectora | em desenvolvimento contínuo | repositório e histórico técnico | demo pública curada, screenshots e estados por recurso |
 | Ability System | em preparação para publicação | repositório open source e CI | release público, documentação de instalação e demo estável |

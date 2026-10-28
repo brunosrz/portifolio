@@ -1,86 +1,88 @@
 # Bruno Soares
 
-**Engenheiro de Software | IA aplicada | Arquitetura de produtos e runtimes confiáveis**
+**Atendimento | Operações | Organização e suporte administrativo**
 
 São João Batista do Glória, MG · Brasil  
-+55 (35) 91017-9164 · [bruno.soarxz@gmail.com](mailto:bruno.soarxz@gmail.com) · [github.com/brunosrz](https://github.com/brunosrz)
+21 anos · 12/12/2004<br>
++55 (35) 91017-9164 · [bruno.soarxz@gmail.com](mailto:bruno.soarxz@gmail.com)
+
+## Objetivo
+
+Busco uma oportunidade em atendimento, comércio, alimentação, estoque, operação de loja ou suporte administrativo. Tenho experiência prática com público, caixa, organização, reposição, cozinha, limpeza e rotina de estabelecimento, além de facilidade para aprender sistemas e processos novos.
 
 ## Perfil
 
-Sou um engenheiro de software ambicioso, autodidata e orientado a produto. Construo sistemas completos — da experiência do usuário ao runtime, persistência, segurança, testes e operação — com foco especial em IA aplicada de forma útil, controlável e verificável.
+Sou responsável, organizado, comunicativo e acostumado a trabalhar em ambientes dinâmicos. Tenho iniciativa para assumir tarefas, apoiar a equipe e manter o funcionamento do setor mesmo em períodos de maior movimento. Também possuo conhecimentos de programação, gestão e informática, que ajudam na organização de informações, solução de problemas e adaptação a sistemas internos.
 
-Meu principal projeto é o **Vectora**, uma plataforma de engenharia de software com agentes e workbenches. Ele nasceu como um produto local-first e evoluiu para uma arquitetura que combina execução de agentes, ferramentas, memória, contexto, browser, Git, persistência auditável e serviços distribuídos. O projeto é desenvolvido continuamente; por isso, apresento cada capacidade com seu estado real de maturidade, sem confundir protótipo, beta e produção.
+## Experiência profissional
 
-Busco atuar em times que estejam criando produtos de IA, plataformas internas, automações B2B ou soluções que precisem unir software tradicional, modelos de linguagem e engenharia de confiabilidade.
+### Padaria do Cresinho — Balconista
+**Dezembro de 2025 – Novembro de 2026**
 
-## O que entrego
+- Atendimento ao cliente e operação de caixa.
+- Reposição, organização e embalagem de produtos.
+- Assamento de pães e apoio à produção.
+- Fatiamento e armazenamento de frios.
+- Limpeza e organização do ambiente de trabalho.
 
-- Arquitetura e implementação de agentes com ferramentas, function calling, aprovação humana, subagentes, memória e recuperação de contexto.
-- Backend Python com FastAPI, Pydantic, APIs REST, SSE, WebSocket, autenticação, RBAC e contratos versionados.
-- Frontend TypeScript com React, Vite, TanStack, Zustand, Tailwind, Monaco, xterm e Electron.
-- Backend TypeScript com Hono e Cloudflare Workers, incluindo Durable Objects, D1, R2, KV, Queues e Cron Triggers; os serviços distribuídos do Vectora são um caso prático dessa arquitetura.
-- Rust em formação aplicada: estudo a linguagem para migrar progressivamente partes do backend do Vectora e avalio o backend do Delivery como um caso real, isolado e mensurável de Rust em produção.
-- Persistência local e distribuída com SQLite/WAL, PostgreSQL, D1, Redis, LanceDB e Qdrant.
-- Integração de LLMs remotos e locais, com roteamento de providers, fallbacks, diagnósticos e limites explícitos.
-- Segurança de ferramentas: SSRF, políticas de egress, isolamento por workspace, redaction, credenciais e auditoria.
-- Qualidade operacional: testes unitários, negativos, regressivos, integração e E2E; lint, tipagem, contratos, CI/CD e evidências reproduzíveis.
-- Produtos B2B: descoberta de requisitos, arquitetura de catálogo, regras de negócio, UX e evolução incremental.
+### Seven Bar — Garçom
+**2 meses · 2025**
 
-## Projetos selecionados
+- Atendimento completo ao cliente.
+- Organização, limpeza e abastecimento do salão e do bar.
+- Apoio à operação durante períodos de movimento.
 
-### Vectora — fundador e principal engenheiro
+### Bar do Barão — Bartender
+**2 meses · 2025**
 
-**Estado:** produto proprietário em desenvolvimento contínuo; núcleo funcional demonstrável, com capacidades individuais em diferentes níveis de maturidade.
+- Responsabilidade pela rotina do bar.
+- Preparação e organização de bebidas e doces de taça.
+- Atendimento, reposição e manutenção do espaço.
 
-O Vectora é um workspace de IA para desenvolvimento de software no qual pessoa e agente trabalham sobre o mesmo projeto, filesystem, terminal, Git, navegador, memória e contexto.
+### Supermercado Savegnago — Operador de Hortifrúti
+**6 meses · 2024**
 
-**Contribuições principais**
+- Responsabilidade pelo depósito e pela câmara fria.
+- Organização de mercadorias, limpeza e controle de perdas.
+- Apoio na coordenação da equipe na ausência do líder ou auxiliar.
+- Manutenção da ordem e do funcionamento do setor.
 
-- Motor nativo de agentes com loop de execução, ferramentas, aprovação humana, subagentes e retomada.
-- Contexto híbrido com busca textual, vetores, reranking e grafo baseado em estrutura de código.
-- Workbenches para editor, terminal, Git, tarefas, memória, busca web e Browser Workbench sobre Chromium distribuído pelo Electron.
-- Contratos canônicos entre backend Python e frontend TypeScript.
-- AgentRun persistente, ledger derivado de eventos, checkpoints, snapshots, quality gates, replay e evidências estruturadas.
-- Isolamento por workspace, proteção SSRF/egress e tratamento de conteúdo não confiável.
-- Modo local-first com SQLite e LanceDB, além de caminhos de escala com PostgreSQL, Qdrant e Redis.
-- Pacote `services` executado na Cloudflare: Workers/Hono, Durable Objects, R2, KV, D1, Queues e Cron Triggers para gateway, releases, autenticação, licenças, registry, telemetria e jobs assíncronos.
+### Supermercado Dalben — Pizzaiolo Júnior
+**1 mês · 2024**
 
-**Tecnologias:** Python, FastAPI, Pydantic, TypeScript, React, Vite, Electron, Chromium/CDP, SQLite, PostgreSQL, Redis, LanceDB, Qdrant, BM25, tree-sitter, MCP, Hono, Cloudflare Workers, Durable Objects, R2, KV, D1, Queues, Docker, GitHub Actions, Nuitka e electron-builder.
+- Preparação de massas de fermentação natural, recheios e molhos.
+- Montagem, assamento e finalização de pizzas, com média de 12 a 15 minutos por pedido.
+- Apoio na cozinha, atendimento, limpeza e organização das mesas.
 
-### Ability System — autor
+### Padaria & Restaurante — Estrada da Canastra — Atendente
+**2 meses · 2023**
 
-**Estado:** projeto open source em preparação para distribuição pública na Godot Asset Library; branch de compatibilidade e CI em evolução.
+- Atendimento no caixa, na padaria e na montagem de marmitas.
+- Preparação de misto quente na chapa.
+- Reposição e fatiamento de frios, com armazenamento adequado.
+- Organização do salão e criação de postagens com o cardápio do dia para redes sociais.
 
-Framework em C++/GDExtension para Godot 4.x, orientado a dados, com hierarquia de tags, fases de habilidade, composição por Resources e suporte a cenários multiplayer com predição e rollback.
+## Competências
 
-O projeto demonstra experiência com APIs nativas de engine, compatibilidade de versões, empacotamento de plugins, builds multiplataforma e qualidade de software em C++.
+- Atendimento ao cliente e trabalho em equipe.
+- Operação de caixa, reposição, estoque e controle de perdas.
+- Organização, limpeza e cumprimento de rotinas.
+- Preparação de alimentos, bebidas, pizzas e produtos de padaria.
+- Informática, assistência técnica e facilidade com sistemas.
+- Programação, Web Design e criação de soluções simples para organização e comunicação.
+- Gestão de tarefas, priorização, responsabilidade operacional e resolução de problemas.
 
-**Tecnologias:** C++, Godot 4.x, GDExtension, SCons, GitHub Actions e networking determinístico.
+## Formação
 
-### Plataforma de delivery — produto B2B em desenvolvimento
+- Ensino Médio completo.
 
-**Estado:** produto em desenvolvimento e mantido em repositório próprio; este repositório contém somente a narrativa, o plano e as evidências públicas autorizadas.
+## Disponibilidade e mobilidade
 
-Produto de cardápio e pedidos para restaurantes, lanchonetes e operações de delivery. O fluxo cobre categorias, busca, itens, variações, complementos, observações, precificação, sacola e preparação para checkout e gestão de pedidos.
+- Disponibilidade para diferentes horários, conforme a vaga.
+- Resido em São João Batista do Glória – MG.
+- Possuo motocicleta para deslocamentos locais.
+- Para oportunidades em Passos e outras cidades, posso utilizar transporte rodoviário enquanto concluo o processo de habilitação.
 
-O case começou com protótipos próprios no Figma e será convertido em uma aplicação demonstrável, priorizando uso mobile, clareza comercial e uma arquitetura reutilizável para clientes B2B.
+## Informações adicionais
 
-**Demonstra:** design de produto, UX mobile, catálogo, regras de preço, carrinho, checkout, acessibilidade, responsividade e integração entre operação comercial e software.
-
-## Conhecimentos anteriores relevantes
-
-- LangChain e LangGraph: experiência prática e conhecimento de trade-offs para orquestração, memória e ferramentas.
-- Engenharia full stack, modelagem de dados, integração de APIs e automação de processos.
-- Design e prototipação de interfaces no Figma, com tradução para produtos web e desktop.
-
-## Como posso contribuir
-
-- Construir uma plataforma interna de IA alinhada aos dados, processos e permissões da empresa.
-- Desenvolver copilotos e agentes para engenharia, atendimento, suporte, análise documental e operações B2B.
-- Projetar o caminho completo de um produto de IA: descoberta, protótipo, runtime, segurança, avaliação, observabilidade e deploy.
-- Integrar modelos existentes sem aprisionamento a um provider, incluindo execução local quando privacidade ou custo exigirem.
-- Atuar em um time de produto como ponte entre engenharia tradicional, UX e IA aplicada.
-
-## Evidências e transparência
-
-O portfólio não apresenta uma capacidade como pronta apenas porque existe código. Cada case deve apontar para repositório, demo, captura, teste ou documento correspondente e informar suas limitações. O estado atualizado e o plano de evolução estão em [`PLANO-PORTFOLIO.md`](PLANO-PORTFOLIO.md).
+Minha experiência profissional começou cedo, auxiliando minha mãe em uma lanchonete com atendimento, limpeza e tarefas gerais. Desde então, desenvolvi disciplina, contato com o público e disposição para aprender atividades novas. Estou aberto a oportunidades em que possa contribuir com responsabilidade, agilidade e vontade de crescer.
