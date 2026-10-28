@@ -11,21 +11,6 @@ Desenvolvedor autodidata e orientado a produto, com experiência prática constr
 
 Tenho facilidade para aprender tecnologias novas e conectar áreas que normalmente ficam separadas: UX, engenharia de software, modelos de linguagem, automação e confiabilidade. Busco atuar como Software Engineer, AI Engineer, Full Stack Engineer, Backend Engineer ou Developer Tools Engineer em produtos de IA, plataformas internas e automações B2B.
 
-## Experiência profissional
-
-### Vectora — Fundador e Engenheiro de Software
-**2026 – atual · Projeto próprio em desenvolvimento contínuo**
-
-- Concepção e desenvolvimento de uma plataforma local-first para desenvolvimento de software assistido por agentes.
-- Implementação do runtime nativo de agentes, loop de conversação, function calling, aprovação humana, subagentes, retomada e execução de ferramentas.
-- Construção de workbenches para editor, terminal, Git, tarefas, memória, busca web e navegador Chromium integrado ao Electron.
-- Definição de contratos entre backend Python e frontend TypeScript, além de persistência auditável com AgentRun, ledger, checkpoints, snapshots, replay e quality gates.
-- Implementação de políticas de egress, proteção SSRF, isolamento por workspace, redaction de credenciais e tratamento de conteúdo não confiável.
-- Organização de CI/CD, testes unitários, negativos, regressivos, integração e E2E, com validações de lint, tipagem, segurança e drift de contratos.
-- Desenvolvimento do pacote `services` com Hono e Cloudflare Workers para gateway, autenticação, releases, licenças, registry, telemetria e jobs assíncronos.
-
-**Estado:** núcleo funcional demonstrável, com capacidades em diferentes níveis de maturidade claramente documentados. O projeto continua em evolução e não apresenta protótipos como produção.
-
 ## Competências principais
 
 ### IA aplicada e agentes
@@ -66,11 +51,11 @@ Tenho facilidade para aprender tecnologias novas e conectar áreas que normalmen
 
 O Vectora permite que pessoa e agente trabalhem sobre o mesmo projeto, filesystem, terminal, Git, navegador, memória e contexto. O objetivo é reduzir o trabalho operacional de desenvolvimento sem abrir mão de permissões, rastreabilidade e controle humano.
 
-**Principais entregas:** runtime de agentes, workbenches, contexto híbrido, contratos Python/TypeScript, AgentRun persistente, ledger derivado de eventos, checkpoints, snapshots, replay, quality gates e serviços Cloudflare.
+**Principais entregas:** concepção e desenvolvimento de uma plataforma local-first para engenharia de software assistida por IA. Implementação de um runtime nativo de agentes com conversação, function calling, aprovação humana, subagentes e execução de ferramentas. Desenvolvimento de workbenches integrados para edição de código, terminal, Git, tarefas, memória, busca web e navegação com Chromium. Estruturação da comunicação entre Python e TypeScript, com persistência auditável, checkpoints, snapshots e mecanismos de replay. Implementação de políticas de segurança, isolamento por workspace e proteção de credenciais. Configuração de pipelines CI/CD com testes automatizados e validações de qualidade. Desenvolvimento de serviços Cloudflare para autenticação, licenciamento, distribuição de versões, telemetria e processamento assíncrono.
 
 **Tecnologias:** Python, FastAPI, Pydantic, TypeScript, React, Vite, Electron, Chromium/CDP, SQLite, PostgreSQL, Redis, LanceDB, Qdrant, BM25, tree-sitter, MCP, Hono, Cloudflare Workers, Docker, GitHub Actions, Nuitka e electron-builder.
 
-**Estado:** desenvolvimento ativo; cada capacidade é apresentada com seu nível real de maturidade e evidências correspondentes.
+**Estado:** núcleo funcional demonstrável, com capacidades em diferentes níveis de maturidade claramente documentados. O projeto continua em evolução, distinguindo funcionalidades em produção, implementações experimentais e protótipos.
 
 ### Ability System — framework de habilidades para Godot
 
