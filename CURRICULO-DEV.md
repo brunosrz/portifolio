@@ -78,6 +78,18 @@ Framework open source em C++/GDExtension para Godot 4.x, orientado a dados, com 
 
 **Estado:** preparação para distribuição pública na Godot Asset Library, com CI e compatibilidade em evolução.
 
+### Sabores da Canastra — API, ERP e PDV para operação de bar
+
+[Repositório](https://github.com/brunosrz/Sabores-da-Canastra) · [PRs da migração mobile/offline](https://github.com/brunosrz/Sabores-da-Canastra/pull/21) · [continuação dos módulos ERP/PDV](https://github.com/brunosrz/Sabores-da-Canastra/pull/26)
+
+Modernização de um sistema usado em uma operação real de bar. Estou conduzindo a evolução de um legado em Python, SQLite e Excel para uma plataforma com API compartilhada, ERP de gestão e PDV, mantendo os utilitários e os dados do sistema anterior como referência e caminho de migração.
+
+**Principais entregas:** implementação de uma API Hono em Cloudflare Workers; modelagem de dados financeiros no D1 com ledger append-only; importação validada e reconciliada do catálogo e das configurações legadas; autenticação compartilhada sem cadastro público; registro idempotente de vendas; cache de catálogo sem expor custos; backups privados no R2 com verificação de integridade. Nos apps TanStack Start, trabalho em instalação como PWA, experiência mobile-first e operações offline para venda e atualização de preços.
+
+**Tecnologias:** Python, SQLite, Excel, TypeScript, React, TanStack Start, Hono, Cloudflare Workers, D1, KV, R2, Durable Objects, Workflows, IndexedDB, Vitest, Playwright e GitHub Actions.
+
+**Estado:** a API está publicada em preview privado e não possui rota pública. ERP e PDV estão em desenvolvimento; os PRs de experiência offline e continuação dos módulos permanecem abertos. A migração de dados para D1 foi executada em preview após validação. Não há sincronização contínua com o SQLite legado, nem publicação dos apps nos subdomínios planejados.
+
 ### Delivery — produto B2B para restaurantes
 
 [Repositório](https://github.com/brunosrz/Delivery)
