@@ -78,17 +78,16 @@ Framework open source em C++/GDExtension para Godot 4.x, orientado a dados, com 
 
 **Estado:** preparação para distribuição pública na Godot Asset Library, com CI e compatibilidade em evolução.
 
-### Sabores da Canastra — API, ERP e PDV para operação de bar
+### ERP & PDV — sistemas de operação e sincronização offline
 
-[Repositório](https://github.com/brunosrz/Sabores-da-Canastra) · [PRs da migração mobile/offline](https://github.com/brunosrz/Sabores-da-Canastra/pull/21) · [continuação dos módulos ERP/PDV](https://github.com/brunosrz/Sabores-da-Canastra/pull/26)
+Desenvolvimento de uma plataforma privada de gestão e ponto de venda para um cliente real, com API compartilhada entre dois aplicativos separados. O trabalho prioriza continuidade operacional, consistência dos dados e experiência em dispositivos móveis.
 
-Modernização de um sistema usado em uma operação real de bar. Estou conduzindo a evolução de um legado em Python, SQLite e Excel para uma plataforma com API compartilhada, ERP de gestão e PDV, mantendo os utilitários e os dados do sistema anterior como referência e caminho de migração.
+- Login e preferência de tema compartilhados entre ERP e PDV; dados de produtos e vendas disponíveis nos dois aplicativos.
+- Operação continua na rede Wi-Fi local mesmo sem acesso à internet, com fila de sincronização para Cloudflare quando a conexão retorna.
+- Stack: React, TanStack Start, Capacitor, Dexie e API Hono em Cloudflare Workers, com D1, KV, Durable Objects, R2 e Workflows.
+- Experiência também aplicada em outros projetos: arquitetura offline-first, sincronização e evolução segura de sistemas existentes.
 
-**Principais entregas:** implementação de uma API Hono em Cloudflare Workers; modelagem de dados financeiros no D1 com ledger append-only; importação validada e reconciliada do catálogo e das configurações legadas; autenticação compartilhada sem cadastro público; registro idempotente de vendas; cache de catálogo sem expor custos; backups privados no R2 com verificação de integridade. Nos apps TanStack Start, trabalho em instalação como PWA, experiência mobile-first e operações offline para venda e atualização de preços.
-
-**Tecnologias:** Python, SQLite, Excel, TypeScript, React, TanStack Start, Hono, Cloudflare Workers, D1, KV, R2, Durable Objects, Workflows, IndexedDB, Vitest, Playwright e GitHub Actions.
-
-**Estado:** a API está publicada em preview privado e não possui rota pública. ERP e PDV estão em desenvolvimento; os PRs de experiência offline e continuação dos módulos permanecem abertos. A migração de dados para D1 foi executada em preview após validação. Não há sincronização contínua com o SQLite legado, nem publicação dos apps nos subdomínios planejados.
+**Estado:** solução privada desenvolvida no ambiente do primeiro cliente. Aplicativos e repositório não são públicos; nome e lançamento de um eventual SaaS ainda serão definidos.
 
 ### Delivery — produto B2B para restaurantes
 
